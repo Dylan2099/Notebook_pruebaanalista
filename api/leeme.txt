@@ -1,0 +1,4 @@
+Importante para el buen funcionamiento de la api asegurarse de tener mondodb en funcionamiento
+
+*Puede hacerlo mediante el comando en el simbolo del sistema: mongod --port 27017 --dbpath C:\MongoDB\data\db
+asegurando al direccion en donde se tiene instalado mongodb en este caso: C:\MongoDB\data\db
